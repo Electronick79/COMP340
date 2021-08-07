@@ -1,0 +1,5 @@
+C:\Users\Electronick\OneDrive\Desktop\COMP340\hw_3goomba\obj\Debug\net5.0\hw_3goomba.csprojAssemblyReference.cache
+C:\Users\Electronick\OneDrive\Desktop\COMP340\hw_3goomba\obj\Debug\net5.0\hw_3goomba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronick\OneDrive\Desktop\COMP340\hw_3goomba\obj\Debug\net5.0\hw_3goomba.AssemblyInfoInputs.cache
+C:\Users\Electronick\OneDrive\Desktop\COMP340\hw_3goomba\obj\Debug\net5.0\hw_3goomba.AssemblyInfo.cs
+C:\Users\Electronick\OneDrive\Desktop\COMP340\hw_3goomba\obj\Debug\net5.0\hw_3goomba.csproj.CoreCompileInputs.cache

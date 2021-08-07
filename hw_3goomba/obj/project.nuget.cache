@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1PYvLoOjKxtpAEy7wRUbYanStAMa+6AMF6VH6NRm22iFy1ni/kg7kU1eyI/+by+ubjbQHfJnrKppD+AntZ2BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Electronick\\OneDrive\\Desktop\\COMP340\\hw_3goomba\\hw_3goomba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Electronick\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
